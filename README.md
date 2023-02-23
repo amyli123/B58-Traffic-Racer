@@ -57,3 +57,15 @@ Get pickups by colliding with them.
 
 * Extra Lives `+` : Recovers 1 life (half a heart).
 * Invincibility `*` : Turns your car invincible. No lives will be lost if a collision occurs in this state.
+
+## Gameplay
+
+<table><tr>
+<td><img src="/images/startmenu.png"></td>
+<td><img src="/images/gameplay.png"></td>
+</tr></table>
+<table><tr>
+<td><img src="/images/level1complete.png"</td>
+<td><img src="/images/level2complete.png"</td>
+<td><img src="/images/gameover.png"</td>
+</tr></table>
